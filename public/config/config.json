@@ -1,0 +1,17 @@
+{
+  "CONTRACT_ADDRESS": "0xE79a98BC9174Bc29a821550A00468F74afc734eb",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xE79a98BC9174Bc29a821550A00468F74afc734eb",
+  "NETWORK": {
+    "NAME": "Mumbai",
+    "SYMBOL": "MATIC",
+    "ID": 80001
+  },
+  "NFT_NAME": "Murican",
+  "MAX_SUPPLY": 4444,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/",
+  "SHOW_BACKGROUND": true
+}
